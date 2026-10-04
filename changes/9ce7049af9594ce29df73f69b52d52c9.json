@@ -1,0 +1,20 @@
+{
+  "id": "9ce7049af9594ce29df73f69b52d52c9",
+  "base": "cc57d50accc216ed4c6ca624cf91369b5e5531fc",
+  "reason": "remove repo test",
+  "allowed": [
+    "cad/FULL_V1.85_ASSEMBLY.SLDASM",
+    "cad/Frame_and_Legs.SLDASM",
+    "cad/Lower_Servo_Assembly.SLDASM",
+    "cad/Propulssion_Cage_Assembly.SLDASM",
+    "cad/Propulssion_Holder_Assembly.SLDASM",
+    "cad/Repo_Test.step",
+    "cad/XMH-430_SERVO1.SLDASM",
+    "cad/XMH-430_SERVO2.SLDASM",
+    "cad/avionics bay assembly.SLDASM"
+  ],
+  "project": "legacy",
+  "changes": {
+    "cad/Repo_Test.step": "deleted"
+  }
+}
