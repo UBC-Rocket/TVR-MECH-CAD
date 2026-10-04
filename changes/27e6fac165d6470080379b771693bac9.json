@@ -1,0 +1,19 @@
+{
+  "id": "27e6fac165d6470080379b771693bac9",
+  "base": "d46299a31b37735fb935ed571812a653580d6e8d",
+  "reason": "check rocket repo",
+  "allowed": [
+    "cad/FULL_V1.85_ASSEMBLY.SLDASM",
+    "cad/Frame_and_Legs.SLDASM",
+    "cad/Lower_Servo_Assembly.SLDASM",
+    "cad/Propulssion_Cage_Assembly.SLDASM",
+    "cad/Propulssion_Holder_Assembly.SLDASM",
+    "cad/XMH-430_SERVO1.SLDASM",
+    "cad/XMH-430_SERVO2.SLDASM",
+    "cad/avionics bay assembly.SLDASM"
+  ],
+  "project": "legacy",
+  "changes": {
+    "cad/FULL_V1.85_ASSEMBLY.SLDASM": "modified"
+  }
+}
